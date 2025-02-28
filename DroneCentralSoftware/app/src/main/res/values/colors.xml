@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+<!--    <color name="white">#FFFFFFFF</color>-->
+    <color name="backgroundColor">#121212</color> <!-- Dark background -->
+    <color name="trackButtonColor">#FF5722</color> <!-- Orange button -->
+    <color name="infoButtonColor">#2196F3</color> <!-- Blue button -->
+    <color name="white">#FFFFFF</color> <!-- White text -->
+    <color name="blueBg">#003549</color>
+
+</resources>

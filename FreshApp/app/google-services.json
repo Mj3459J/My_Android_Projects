@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333738702641",
+    "project_id": "freahapp",
+    "storage_bucket": "freahapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333738702641:android:459c72eebac305442ce210",
+        "android_client_info": {
+          "package_name": "com.example.freshapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7L2fZCg9dAARdSNtMBs6nsD2gT8H00A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
